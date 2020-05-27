@@ -1,0 +1,20 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" name="InvertedIndex GUI">
+    <output-path>$PROJECT_DIR$/out/artifacts/InvertedIndex_GUI</output-path>
+    <properties id="javafx-properties">
+      <options>
+        <option name="appClass" value="sample.DOUCment_SERCh" />
+        <option name="description" value="" />
+        <option name="htmlPlaceholderId" value="" />
+        <option name="title" value="" />
+        <option name="vendor" value="" />
+        <option name="version" value="" />
+      </options>
+    </properties>
+    <root id="root">
+      <element id="archive" name="InvertedIndex_GUI.jar">
+        <element id="module-output" name="InvertedIndex GUI" />
+      </element>
+    </root>
+  </artifact>
+</component>

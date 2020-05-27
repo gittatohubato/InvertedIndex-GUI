@@ -1,2 +1,2 @@
 # InvertedIndex-GUI
- search in a large data set, After building inverted index
+Search word in a large data set, After building inverted index.
